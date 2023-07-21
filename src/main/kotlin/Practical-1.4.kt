@@ -1,4 +1,4 @@
-fun main(){
+ fun main(){
     println("Enter number")
     val a = readLine()!!.toInt()
     val s = if(a%2==0)
